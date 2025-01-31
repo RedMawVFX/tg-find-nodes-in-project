@@ -1,4 +1,9 @@
 # tg-find-nodes-in-project
+&#9888; This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.
+
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-find-nodes-in-project) to go directly to the <i>tg-find-nodes-in-project</i> folder in the redmaw-tg-toolkit.
+<hr>
 Finds nodes in the active Terragen project.  Once nodes have been found they can be added to or removed from the currently selected nodes in the project.
 
 The UI includes a search feature, the ability to resample the current contents in the project, and various ways to select nodes from the list.
